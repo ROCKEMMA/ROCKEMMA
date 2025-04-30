@@ -6,8 +6,9 @@
     <br>Soy un desarrollador Web y creador de contenidos digitales.
     <br>
     <br>🔹 Actualmente estoy aprendiendo REACT
-    <br>🔹 Programación en python
-    <br>🔹 Estoy interesado en el desarrollo de aplicaciones web.
+    <br>🔹 Programación en python con raspberry pi pico W
+    <br>🔹 Me interesa el desarrollo de aplicaciones web.
+    <br>🔹 https://jossuefuentes.space/
     </samp>
    <br>
   <br>
