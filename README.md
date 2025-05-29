@@ -2,14 +2,13 @@
 ---
 ```bash
 ┌──(jossue㉿fuentes)-[~/portfolio]
-└─$ cat README
-
-echo "                  _                             "
-echo "  ____ ___   ____| |  _ _____ ____  ____  _____ "
-echo " / ___) _ \ / ___) |_/ ) ___ |    \|    \(____ |"
-echo "| |  | |_| ( (___|  _ (| ____| | | | | | / ___ |"
-echo "|_|   \___/ \____)_| \_)_____)_|_|_|_|_|_\_____|"
-echo ":::::::::::::::::::::::::::::::::::::::::::::::::::::"
+└─$ ping jossuefuentes.space
+                  _                             
+  ____ ___   ____| |  _ _____ ____  ____  _____ 
+ / ___) _ \ / ___) |_/ ) ___ |    \|    \(____ |
+| |  | |_| ( (___|  _ (| ____| | | | | | / ___ |
+|_|   \___/ \____)_| \_)_____)_|_|_|_|_|_\_____|
+:::::::::::::::::::::::::::::::::::::::::::::::::
 
 > Soy Jossue Fuentes
 > Desarrollador web y creador de contenido digital.
@@ -18,11 +17,11 @@ echo ":::::::::::::::::::::::::::::::::::::::::::::::::::::"
 - Aprendiendo React
 - Programación con Python en Raspberry Pi Pico W
 - Desarrollo de aplicaciones web con backEnd en Express
-
-[✔] HTML     [✔] CSS       [✔] JavaScript
-[✔] React    [✔] Python    [✔] Java SE
-[✔] SQL      [✔] Git       [✔] Bash
-[✔] Linux    [✔] Express   [✔] Micro Python
+  
+  [✔] HTML     [✔] CSS       [✔] JavaScript
+  [✔] React    [✔] Python    [✔] Java SE
+  [✔] SQL      [✔] Git       [✔] Bash
+  [✔] Linux    [✔] Express   [✔] Micro Python
 
 ```
 
@@ -34,16 +33,16 @@ echo ":::::::::::::::::::::::::::::::::::::::::::::::::::::"
     </td>
   </tr>
   <tr>
-    <td>📦 Tecnologías: React + Express + MySQL</td>
+    <td>📦 Tecnologías: HTML/CSS/Javascript + Express + MySQL</td>
   </tr>
   <tr>
-    <td>🚀 Objetivo: Gestión de productos y ventas</td>
+    <td>📦 Tecnologías: MocroPython + Raspberry pi pico</td>
   </tr>
   <tr>
-    <td>🔒 Seguridad: Middleware + Autenticación</td>
+    <td>🔒 -------------</td>
   </tr>
   <tr>
-    <td>🖥️ Estado: En desarrollo</td>
+    <td>🖥️ -------------</td>
   </tr>
 </table>
 
