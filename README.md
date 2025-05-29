@@ -2,7 +2,7 @@
 ---
 ```bash
 ┌──(jossue㉿fuentes)-[~/portfolio]
-└─$ ping jossuefuentes.space
+└─$ ls -l
                   _                             
   ____ ___   ____| |  _ _____ ____  ____  _____ 
  / ___) _ \ / ___) |_/ ) ___ |    \|    \(____ |
@@ -33,16 +33,16 @@
     </td>
   </tr>
   <tr>
-    <td>📦 Tecnologías: HTML/CSS/Javascript + Express + MySQL</td>
+    <td>📦 HTML|CSS|JS + Express + MySQL</td>
   </tr>
   <tr>
-    <td>📦 Tecnologías: MocroPython + Raspberry pi pico</td>
+    <td>📦 MicroPython + Raspberry pi pico</td>
   </tr>
   <tr>
-    <td>📦 -------------</td>
+    <td>📦 JAVA SE + SQL</td>
   </tr>
   <tr>
-    <td>📦 -------------</td>
+    <td>📦 Git + Github</td>
   </tr>
 </table>
 
