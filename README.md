@@ -24,35 +24,6 @@
   [✔] Linux    [✔] Express   [✔] Micro Python
 
 ```
-
-<table style="border-collapse: collapse; font-family: 'Courier New', monospace; font-size: 15px; border: 1px solid #333; border-radius: 8px; width: 100%; table-layout: fixed; background-color: #0d1117; color: #e6edf3;">
-  <colgroup>
-    <col style="width: 70%;">
-    <col style="width: 30%;">
-  </colgroup>
-  <tr style="background-color: #161b22;">
-    <td style="padding: 12px 16px; vertical-align: middle; border-bottom: 1px solid #30363d;">
-      🔗 <a href="https://jossuefuentes.space/" style="color: #58a6ff; text-decoration: none; font-weight: normal;">
-        jossuefuentes.space
-      </a>
-    </td>
-    <td rowspan="5" style="padding: 10px; text-align: center; vertical-align: middle; border-left: 1px solid #30363d;">
-      <img src="https://github.com/ROCKEMMA/ROCKEMMA/blob/main/ico.gif?raw=true" width="120" style="border-radius: 8px; max-width: 100%; height: auto;" />
-    </td>
-  </tr>
-  <tr>
-    <td style="padding: 10px 16px; border-bottom: 1px solid #30363d;">💾 - HTML | CSS | JS + Express + MySQL</td>
-  </tr>
-  <tr style="background-color: #161b22;">
-    <td style="padding: 10px 16px; border-bottom: 1px solid #30363d;">💾 - MicroPython + Raspberry Pi Pico</td>
-  </tr>
-  <tr>
-    <td style="padding: 10px 16px; border-bottom: 1px solid #30363d;">💾 - Java SE + SQL</td>
-  </tr>
-  <tr style="background-color: #161b22;">
-    <td style="padding: 10px 16px;">💾 - Git + GitHub</td>
-  </tr>
-</table>
-
-
-
+🔗 <a href="https://jossuefuentes.space/" style="color: #58a6ff; text-decoration: none; font-weight: normal;">
+        https://jossuefuentes.space/
+</a>
